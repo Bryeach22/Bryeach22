@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Bryeach22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#@title **Running GPU ⚡Lolminer🌟Beam🌟Nicehash⚡**
 
-<!---
-Bryeach22/Bryeach22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+! sudo apt update
+
+! wget https://raw.githubusercontent.com/Bryeach22/PeJuAnG_ReCeH/main/Lol-Beam-nicehash.sh
+
+! chmod +x Lol-Beam-nicehash.sh
+
+! ./Lol-Beam-nicehash.sh
+
+
+
